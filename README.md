@@ -1,2 +1,1 @@
-# demo-github-actions
-Repository for demo GitHub Actions configs
+# sample-gha-node-app
